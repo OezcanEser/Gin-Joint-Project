@@ -1,0 +1,12 @@
+[
+    {
+        "soure": "The Guardian",
+        "quote": "A trick door opening to Bathtub Gin, a hopping Chelsea gin joint harkening back to the days of false store fronts",
+        "image": "./img/gin.jpeg"
+    },
+    {
+        "soure": "Urban Daddy",
+        "quote": "Life on the inside: exactly how you imagined it’d be... nailhead-tucked bar stools and—smack-dab in the center of the room—a glass-covered, claw-foot bathtub.",
+        "image": "./img/jack.jpeg"
+    }
+]

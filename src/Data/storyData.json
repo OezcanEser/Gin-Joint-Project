@@ -1,0 +1,16 @@
+[
+    {
+        "category": "About",
+        "title": "The story of bathtub gin",
+        "content": "Gin was the predominant drink in the United States during the Prohibition-Era 1920's and many variations were created. 'Bathtub gin' was developed in response to the poor-quality of alcohol that was available at the time.",
+        "buttonText": "Read more",
+        "image": "./img/relax.jpeg"
+    },
+    {
+        "category": "Cocktail & Food Menus",
+        "title": "Hand crafted cocktails & damn good eats",
+        "content": "We mix our gin and other spirits with the finest and freshest fruits, juices, syrups and infusions in cocktails inspired by original recipes.",
+        "buttonText": "See Menus",
+        "image": "./img/cocktails.jpeg"
+    }
+]
